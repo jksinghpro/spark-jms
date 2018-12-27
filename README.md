@@ -1,4 +1,4 @@
-# JMS Compatible DataSource for Apache Spark
+# JMS Compatible DataSource for Apache Spark(beta)
 
 
 **spark-jms** is a spark dataframe reader and writer for JMS(Java Messaging Service) compatible sources .This connector works in both streaming and batch mode.
